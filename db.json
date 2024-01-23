@@ -5,28 +5,32 @@
           "title": "Quần Guuci",
           "price": 300,
           "description": "Quần đẹp nhất thế giới",
-          "image": "https://tse2.mm.bing.net/th?id=OIP.kH3r_6gpq-F539GfDc4CvwHaHa&pid=Api&P=0&h=180"
+          "category": "Quần",
+          "image": "https://tse3.mm.bing.net/th?id=OIP.eoFTLJV5-0COV7Xa1hVA_QHaHa&pid=Api&P=0&h=180"
       },
       {
           "id": 2,
-          "title": "Quần LV",
+          "title": "Áo LV",
           "price": 400,
-          "description": "Quần xấu nhất thế giới",
-          "image": "https://tse2.mm.bing.net/th?id=OIP.kH3r_6gpq-F539GfDc4CvwHaHa&pid=Api&P=0&h=180"
+          "description": "Áo đẹp nhất thế giới",
+          "category": "Áo",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.Z0xMYGVi8sBlD9t9YcXwFwHaGS&pid=Api&P=0&h=180"
       },
       {
           "id": 3,
-          "title": "Quần Guuci 1",
+          "title": "Váy LV",
           "price": 500,
-          "description": "Quần đẹp nhất thế giới",
-          "image": "https://tse2.mm.bing.net/th?id=OIP.kH3r_6gpq-F539GfDc4CvwHaHa&pid=Api&P=0&h=180"
+          "description": "Váy đẹp nhất thế giới",
+          "category": "Váy",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.v8ULRWA4mArtVB23i8b3YgHaHa&pid=Api&P=0&h=180"
       },
       {
           "id": 4,
-          "title": "Quần Guuci",
+          "title": "Giày Guuci",
           "price": 300,
-          "description": "Quần đẹp nhất thế giới",
-          "image": "https://tse2.mm.bing.net/th?id=OIP.kH3r_6gpq-F539GfDc4CvwHaHa&pid=Api&P=0&h=180"
+          "description": "Giày đẹp nhất thế giới",
+          "category": "Giày",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.Xf6PsIz5zA_l3GCwLRT6tQHaFj&pid=Api&P=0&h=180"
       }
   ],
   "Users": [
@@ -34,14 +38,38 @@
           "id": 1,
           "fullname": "khoiaaaa",
           "email": "khoispeu@gmail.com",
-          "password": "12345678"
+          "password": "12345678",
+          "role": "admin"
       },
       {
           "id": 2,
           "fullname": "thai123",
           "email": "thai8a2003@gmail.com",
-          "password": "12345678"
+          "password": "12345678",
+          "role": "member"
       }
-
+    
+  ],
+  "Categories": [
+    {
+      "id": "1",
+      "name": "Quần",
+      "description": "Quần mang xu hướng năm 2024"
+    },
+    {
+      "id": "2",
+      "name": "Áo",
+      "description": "Áo mang xu hướng năm 2024"
+    },
+    {
+      "id": "3",
+      "name": "Giày",
+      "description": "Giày mang xu hướng năm 2024"
+    },
+    {
+      "id": "4",
+      "name": "Váy",
+      "description": "Váy mang xu hướng năm 2024"
+    }
   ]
 }
