@@ -47,6 +47,13 @@
           "email": "thai8a2003@gmail.com",
           "password": "12345678",
           "role": "member"
+      },
+      {
+        "id": 3,
+        "fullname": "doquangha2805",
+        "email": "quangha280503@gmail.com",
+        "password": "280503",
+        "role": "member"
       }
     
   ],
