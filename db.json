@@ -121,8 +121,16 @@
         "image": "https://tse2.mm.bing.net/th?id=OIP.Xf6PsIz5zA_l3GCwLRT6tQHaFj&pid=Api&P=0&h=180"
       },
       {
-        "id": 12,
+        "id": 16,
         "title": "Váy xinh",
+        "price": 300,
+        "description": "Váy đẹp nhất thế giới",
+        "category": "Váy",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.Xf6PsIz5zA_l3GCwLRT6tQHaFj&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 17,
+        "title": "Váy việt nam",
         "price": 300,
         "description": "Váy đẹp nhất thế giới",
         "category": "Váy",
